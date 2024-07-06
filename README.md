@@ -22,4 +22,6 @@ The prompt instructs the AI to analyze an uploaded resume file and convert its c
 
 - `prompt.txt`: Contains the resume parsing prompt.
 - `README.md`: This file, providing project information and instructions.
+- `Sample_Resume.pdf`: This file contains the sample resume i took for testing the prompt.
+- `sample_output.json`: This file contains the json output of the sample resume i tested my prompt on.
 

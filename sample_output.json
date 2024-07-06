@@ -1,0 +1,100 @@
+{
+  "personal_information": {
+    "name": "Anshika Verma",
+    "phone": "8354926744",
+    "email": "anshikaverma2411@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/anshika-verma-35a389247/",
+    "github": "https://github.com/anshikaverma2411"
+  },
+  "education": [
+    {
+      "institution": "SRM Institute of Science and Technology",
+      "degree": "Bachelor of Science in Computer Science (AIML)",
+      "duration": "September 2021 – June 2025",
+      "cgpa": "9.25 / 10.00",
+      "location": "NCR Campus, Delhi",
+      "relevant_coursework": [
+        "Data Structures and Algorithms (C++)",
+        "Programming and Problem Solving",
+        "Operating Systems",
+        "Software Engineering and Project Management",
+        "Computer Networks",
+        "Computer Communication",
+        "Database Management System",
+        "Object Oriented Programming"
+      ]
+    },
+    {
+      "institution": "New Way Senior Secondary School",
+      "degree": "Senior Secondary",
+      "duration": "April 2019 - May 2020",
+      "percentage": "93.4%",
+      "location": "Lucknow, Uttar Pradesh"
+    },
+    {
+      "institution": "New Way Senior Secondary School",
+      "degree": "High School",
+      "duration": "April 2017 - May 2018",
+      "percentage": "92.8%",
+      "location": "Lucknow, Uttar Pradesh"
+    }
+  ],
+  "work_experience": [
+    {
+      "organization": "AICTE NEAT",
+      "position": "AI-ML Virtual Intern",
+      "duration": "May 2023 - July 2023",
+      "location": "India",
+      "details": [
+        "Completed an AI-ML virtual internship with AWS, gaining hands-on experience in artificial intelligence and machine learning technologies",
+        "Enhanced skills in data analysis, model training, and cloud-based solutions"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Titanic Survival Prediction",
+      "technologies": ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "scikit-learn"],
+      "details": [
+        "Built with Python in addition to libraries such as NumPy, Pandas, Matplotlib, Seaborn, and scikit-learn for data manipulation, visualization, and machine learning tasks",
+        "Developed a machine learning script for predicting survival on the Titanic",
+        "GitHub Link: https://github.com/anshikaverma2411/Titanic-Survival-Prediction-Data-Science-Project"
+      ]
+    },
+    {
+      "name": "Nexus",
+      "technologies": ["NextJS", "Supabase", "Tailwind", "Clerk", "Zego Cloud", "Vercel"],
+      "details": [
+        "Developed a real-time collaboration app featuring a Kanban board, video calling, and real-time chat using modern technologies including Supabase, Clerk, Convex, Next.JS, React, and Tailwind CSS.",
+        "Engineered seamless integration of interactive components, ensuring high performance and responsiveness for an optimal user experience in real-time collaborative environments.",
+        "Deployed using Next.JS and Vercel"
+      ]
+    }
+  ],
+  "technical_skills": {
+    "languages": ["C++", "C", "JavaScript", "HTML", "CSS", "SQL", "Python"],
+    "technologies": ["Numpy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn", "Git", "GitHub"]
+  },
+  "achievements": [
+    "Qualified for final round in HackInnovate, SRMIST’s National Level Hackathon out of 100+ teams",
+    "Received a merit-based scholarship awarded based on academic excellence and overall performance in 10th Class",
+    "Designed a UPI mobile application at Design Forge organized by CSI-SRM NCR Chapter using Figma and Protopie. Performed user research, prototyping, and created a landing page as a team. Qualified in the Top 10 Teams",
+    "Designed and developed a college student-centric shopping mart website. Qualified for the Final Round of JamShack2023 hackathon hosted by NIT Agartala"
+  ],
+  "social_engagements": [
+    {
+      "role": "Team Member",
+      "organization": "Comic Adda, SRM NCR",
+      "details": "Core Member of Social Media Team"
+    },
+    {
+      "role": "Team Member",
+      "organization": "Axions Crew, Dance Club at SRM Institute of Science and Technology"
+    },
+    {
+      "role": "Volunteer",
+      "organization": "SRM MUN’ 2023",
+      "details": "Ensured smooth communication with external participants and judges"
+    }
+  ]
+}
